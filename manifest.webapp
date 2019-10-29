@@ -1,0 +1,12 @@
+{
+  "name": "Notification Examples",
+  "short_name": "Notification Examples",
+  "start_url":  "https://web-push-book.gauntface.com/demos/notification-examples",
+  "fullscreen": true,
+  "theme":"#000000",
+  "default_locale": "en-US",
+  "icons": {
+    "56": "https://dominickuo.github.io/notification-examples/256.png",
+    "128": "https://dominickuo.github.io/notification-examples/256.png"
+  }
+}
